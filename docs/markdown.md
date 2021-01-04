@@ -279,11 +279,14 @@ counts.filter(_._0 > 2).toSeq.sortBy(_._2).reverse.foreach(println)
 ---
 # Resources
 Scala
-- https://scala-lang.org/
+- https://scala-lang.org
 - https://scalafiddle.io
 
 Haskell (pure functional language)
 - http://learnyouahaskell.com/chapters
+
+This presentation
+- https://github.com/mikaelv/fpintro
 
 ---
 
